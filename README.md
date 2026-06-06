@@ -1,16 +1,76 @@
-## Hi there 👋
+# Hi 👋 I'm Akshay Satam
 
-<!--
-**Akshaysatam1997/Akshaysatam1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cybersecurity Analyst | SOC Analyst
 
-Here are some ideas to get you started:
+Master of Science (Information Technology) graduate passionate about Security Operations, Threat Detection, Vulnerability Assessment and Incident Response.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+🔒 Cybersecurity Enthusiast
+
+🖥️ Interested in SOC Operations
+
+📊 Learning SIEM and Threat Hunting
+
+🐧 Linux Enthusiast
+
+🌐 Networking & Security
+
+---
+
+## Technical Skills
+
+### Security
+
+- Vulnerability Assessment
+- Risk Assessment
+- Incident Response
+- Threat Detection
+- Security Monitoring
+
+### Tools
+
+- Nmap
+- Wireshark
+- Burp Suite
+- Nessus
+- OpenVAS
+- Splunk
+
+### Networking
+
+- TCP/IP
+- DNS
+- DHCP
+- HTTP
+- HTTPS
+- VPN
+
+### Operating Systems
+
+- Linux
+- Windows Server
+
+### Programming
+
+- Python
+- Java
+- SQL
+
+---
+
+## Certifications
+
+- Google Cybersecurity Professional Certificate
+- TryHackMe Labs
+- Cisco Networking Basics
+
+---
+
+## Connect With Me
+
+LinkedIn:linkedin.com/in/akshay-satam-758816266
+
+Email: YOUR_EMAIL
