@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;SOC+Analyst;Threat+Hunter;Vulnerability+Assessment;Incident+Response;Linux+%7C+Networking+%7C+Security;Python+Security+Automation" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00C2FF&center=true&vCenter=true&width=800&lines=Cybersecurity+Analyst;SOC+Analyst;Threat+Detection+%26+Incident+Response;SIEM+%7C+Linux+%7C+Networking;MSc+Information+Technology" />
-</p>
-
 ## Cybersecurity Analyst | SOC Analyst
 
 Master of Science (Information Technology) graduate passionate about Security Operations, Threat Detection, Vulnerability Assessment and Incident Response.
