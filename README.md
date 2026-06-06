@@ -3,7 +3,7 @@ Hi 👋, I'm Akshay Satam
 </h1>
 
 <h3 align="center">
-🔐 Cybersecurity Analyst | SOC Analyst | Threat Hunter | MSc IT
+🔐 Cybersecurity Analyst | SOC Analyst | Cyber Forensics | MSc IT
 </h3>
 
 <p align="center">
@@ -31,15 +31,6 @@ Hi 👋, I'm Akshay Satam
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysatam1997&layout=compact&theme=tokyonight" />
 </p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshaysatam1997&theme=tokyonight" />
-</p>
-
 ---
 
 ## 🛠️ Cybersecurity Tools
@@ -94,27 +85,26 @@ Hi 👋, I'm Akshay Satam
 
 ## 🏆 Certifications
 
-🏅 Google Cybersecurity Professional Certificate
-
-🏅 Cisco Networking Fundamentals
-
-🏅 TryHackMe Learning Paths
-
+🏅 Ethical Hacker
+🏅Fundamental of cloud computing, UpGrade
+🏅Fundamentals of Cybersecurity, UpGrade
+🏅Computer Hardware Basics, Cisco Networking Academy
+🏅Introduction to Cybersecurity, Cisco Networking Academ
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN">
+<a href="linkedin.com/in/akshay-satam-758816266">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:akshaysatam1997@gmail.comL">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" />
 </a>
 
-<a href="YOUR_TRYHACKME">
+<a href="https://tryhackme.com/p/CyberAkshay">
 <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge" />
 </a>
 
