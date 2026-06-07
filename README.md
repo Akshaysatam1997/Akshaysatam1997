@@ -31,6 +31,7 @@ Hi 👋, I'm Akshay Satam
 
 <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge" />
 
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/BurpSuite-FF6633?style=for-the-badge" />
@@ -39,17 +40,20 @@ Hi 👋, I'm Akshay Satam
 
 <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge" />
 
-</p>
-## 🛠️ Cyber Security Tools
-
 <p align="center">
 
 <img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Autopsy-00599C?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+
 <img src="https://img.shields.io/badge/Advanced_IP_Scanner-0078D7?style=for-the-badge" />
+
 <img src="https://img.shields.io/badge/Smart_Whois-008080?style=for-the-badge" />
+
 
 </p>
 
