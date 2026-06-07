@@ -6,31 +6,21 @@ Hi 👋, I'm Akshay Satam
 </p>
 
 ---
-## 👨‍💻 About Me
+## 🔐 About Me
 
-<table>
-<tr>
-<td>
+<img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x1b2F1OW9xMnU0MzA5eW5vNzM2NGZlYjRlY2VwZWY0ZmQxYmN4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
-🎓 **MSc Information Technology**
+🛡️ Cybersecurity Enthusiast focused on Security Operations, Threat Detection, and Incident Response.
 
-📍 **Mumbai, India**
+📊 Skilled in Log Analysis, Network Monitoring, and Vulnerability Assessment.
 
-🔐 **Aspiring Cybersecurity Analyst**
+🚀 Currently exploring Splunk, ELK Stack, Threat Hunting, Malware Analysis, and Security Automation.
 
-🚨 **SOC Operations & Threat Detection**
+🎯 Working towards becoming a highly skilled SOC Analyst capable of identifying, investigating, and mitigating cyber threats.
 
-📊 **Log Analysis & Incident Response**
+📍 Mumbai, India
 
-🛡️ **Vulnerability Assessment**
-
-🌱 **Learning Splunk, ELK Stack & Threat Hunting**
-
-🎯 **Goal: Become a Professional SOC Analyst**
-
-</td>
-</tr>
-</table>
+💡 "Detect. Investigate. Respond. Secure."
 ---
 
 ## 🛠️ Cybersecurity Tools
