@@ -1,13 +1,8 @@
 <h1 align="center">
 Hi 👋, I'm Akshay Satam
 </h1>
-
-<h3 align="center">
-🔐 Cybersecurity Analyst | SOC Analyst | Cyber Forensics | MSc IT
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;SOC+Operations;Threat+Detection;Incident+Response;Vulnerability+Assessment;Python+Security+Automation;Linux+%7C+Networking+%7C+SIEM" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=Cybersecurity+Analyst;SOC+Operations;Cyber+Forensics;Incident+Response;Vulnerability+Assessment;Python+Security+Automation;Linux+%7C+Networking+%7C+SIEM" />
 </p>
 
 ---
