@@ -71,9 +71,7 @@ Hi 👋, I'm Akshay Satam
 
 ## 🏆 Certifications
 
-🏅 Ethical Hacker , UpGrade 
-
-   Intermediate Course 
+🏅 Ethical Hacker (Intermediate Course), UpGrade
    
 🏅Fundamental of cloud computing, UpGrade
 
