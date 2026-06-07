@@ -40,7 +40,63 @@ Hi 👋, I'm Akshay Satam
 <img src="https://img.shields.io/badge/Nessus-00ADEF?style=for-the-badge" />
 
 </p>
+## 🛠️ Cyber Security Tools
 
+<p align="center">
+
+<img src="https://img.shields.io/badge/Zabbix-CC2936?style=for-the-badge&logo=zabbix&logoColor=white" />
+<img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+<img src="https://img.shields.io/badge/Autopsy-00599C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Advanced_IP_Scanner-0078D7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Smart_Whois-008080?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HashCalc-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white" />
+<img src="https://img.shields.io/badge/TrueCrypt-003366?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EmailTracker_Pro-DC143C?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ADS_Spy-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LANState_Pro-006400?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Malware_Analysis-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IDA_Pro-222222?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hacker_Tools-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white" />
+<img src="https://img.shields.io/badge/Syslog_Server-FF8C00?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/ELK_Stack-005571?style=for-the-badge&logo=elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/Graylog-FF3633?style=for-the-badge&logo=graylog&logoColor=white" />
+<img src="https://img.shields.io/badge/EaseUS-0047AB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FTK_Imager-0066CC?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Steganography-6A5ACD?style=for-the-badge" />
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/OS_Forensics-2F4F4F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Proxy_Workbench-800080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge&logo=nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/Zenmap-4682B4?style=for-the-badge" />
+<img src="https://img.shields.io/badge/R--Drive_Imager-228B22?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Angry_IP_Scanner-FF4500?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Capsa-4169E1?style=for-the-badge" />
+
+</p>
 ---
 
 ## 🚀 Skills
