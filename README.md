@@ -43,7 +43,7 @@ Hi 👋, I'm Akshay Satam
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Skills
 
 ### 🔐 SOC Analyst Lab
 
