@@ -23,7 +23,7 @@ Hi 👋, I'm Akshay Satam
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,mysql,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,python,bash,git,docker,mysql,vscode,ansible,elasticsearch" />
 
 </p>
 
