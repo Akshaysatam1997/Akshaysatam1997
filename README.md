@@ -72,10 +72,15 @@ Hi 👋, I'm Akshay Satam
 ## 🏆 Certifications
 
 🏅 Ethical Hacker
+
 🏅Fundamental of cloud computing, UpGrade
+
 🏅Fundamentals of Cybersecurity, UpGrade
+
 🏅Computer Hardware Basics, Cisco Networking Academy
+
 🏅Introduction to Cybersecurity, Cisco Networking Academ
+
 ---
 
 ## 🌐 Connect With Me
