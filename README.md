@@ -1,11 +1,6 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:6A11CB,50:8E2DE2,100:2575FC&text=Akshay%20Satam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Cybersecurity%20Enthusiast%20|%20SOC%20Analyst%20|%20Threat%20Hunter&descAlignY=65"/>
-
-# Hi 👋, I'm Akshay Satam
-
-### 🛡️ Cybersecurity Enthusiast | SOC Analyst | Threat Hunter
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst;Threat+Detection+%26+Incident+Response;Threat+Hunting;Security+Automation;Blue+Team+Security;SIEM+%7C+Splunk+%7C+ELK+Stack" />
 
 </div>
