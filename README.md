@@ -160,15 +160,15 @@
 
 ## 🏆 Certifications
 
-🏅 Ethical Hacker (Intermediate Course), Cisco Networking Academy
+### 🏅 Ethical Hacker (Intermediate Course), Cisco Networking Academy
    
-🏅Fundamental of cloud computing, UpGrade
+### 🏅Fundamental of cloud computing, UpGrade
 
-🏅Fundamentals of Cybersecurity, UpGrade
+### 🏅Fundamentals of Cybersecurity, UpGrade
 
-🏅Computer Hardware Basics, Cisco Networking Academy
+### 🏅Computer Hardware Basics, Cisco Networking Academy
 
-🏅Introduction to Cybersecurity, Cisco Networking Academ
+### 🏅Introduction to Cybersecurity, Cisco Networking Academy
 ## 🌐 Connect With Me
 
 <p align="center">
