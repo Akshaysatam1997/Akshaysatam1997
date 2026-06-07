@@ -182,7 +182,7 @@
 
 <p align="center">
 
-<a href="www.linkedin.com/in/akshay-satam-758816266">
+<a href="https://linkedin.com/in/akshay-satam-758816266">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
 
