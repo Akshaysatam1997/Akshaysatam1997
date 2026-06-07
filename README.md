@@ -103,30 +103,61 @@ Hi 👋, I'm Akshay Satam
 </p>
 ---
 
-## 🚀 Skills
+## 🚀 Cybersecurity Skills
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🔐 SOC Analyst Lab
 
-- Log Analysis
-- Alert Investigation
-- Threat Detection
+- 📊 Log Analysis
+- 🚨 Alert Investigation
+- 🎯 Threat Detection
+- 📑 Security Monitoring
+- 🔍 Incident Investigation
+
+</td>
+
+<td width="50%">
 
 ### 🌐 Web Vulnerability Scanner
 
-- Python Based Scanner
-- Vulnerability Detection
+- 🐍 Python Based Scanner
+- 🔎 Vulnerability Detection
+- 🛡️ Security Assessment
+- ⚡ Automated Scanning
+- 📋 Reporting & Analysis
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 📡 Network Traffic Analysis
 
-- Wireshark Analysis
-- Packet Investigation
+- 📦 Packet Investigation
+- 🌐 Protocol Analysis
+- 🔍 Wireshark Monitoring
+- 🚦 Traffic Inspection
+- 📈 Network Troubleshooting
+
+</td>
+
+<td width="50%">
 
 ### 🛡️ Vulnerability Assessment Lab
 
-- Nmap
-- OpenVAS
-- Nessus
+- 🔎 Nmap Scanning
+- 🚨 OpenVAS Assessment
+- 🎯 Nessus Vulnerability Detection
+- 📊 Risk Analysis
+- 📑 Security Reporting
 
+</td>
+</tr>
+</table>
 ---
 
 ## 🏆 Certifications
