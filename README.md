@@ -4,8 +4,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;SOC+Analyst;Threat+Detection+%26+Incident+Response;Threat+Hunting;Security+Automation;Blue+Team+Security;SIEM+%7C+Splunk+%7C+ELK+Stack" />
 
 </div>
-
----
 ## 🔐 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2x1b2F1OW9xMnU0MzA5eW5vNzM2NGZlYjRlY2VwZWY0ZmQxYmN4NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
@@ -21,7 +19,6 @@
 📍 Mumbai, India
 
 💡 "Detect. Investigate. Respond. Secure."
----
 
 ## 🛠️ Cybersecurity Tools
 
@@ -34,7 +31,6 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge" />
-
 
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge" />
 
@@ -57,7 +53,6 @@
 <img src="https://img.shields.io/badge/Advanced_IP_Scanner-0078D7?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Smart_Whois-008080?style=for-the-badge" />
-
 
 </p>
 
@@ -105,8 +100,6 @@
 <img src="https://img.shields.io/badge/Capsa-4169E1?style=for-the-badge" />
 
 </p>
----
-
 ## 🚀 Cybersecurity Skills
 
 <table>
@@ -162,8 +155,6 @@
 </td>
 </tr>
 </table>
----
-
 ## 🏆 Certifications
 
 🏅 Ethical Hacker (Intermediate Course), Cisco Networking Academy
@@ -175,9 +166,6 @@
 🏅Computer Hardware Basics, Cisco Networking Academy
 
 🏅Introduction to Cybersecurity, Cisco Networking Academ
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
