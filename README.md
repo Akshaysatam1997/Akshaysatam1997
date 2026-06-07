@@ -24,15 +24,6 @@ Hi 👋, I'm Akshay Satam
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshaysatam1997&show_icons=true&theme=tokyonight" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshaysatam1997&layout=compact&theme=tokyonight" />
-</p>
----
-
 ## 🛠️ Cybersecurity Tools
 
 <p align="center">
